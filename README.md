@@ -60,3 +60,6 @@ Image alt
 
 ![image](https://github.com/MinakovS/HW_1/assets/163389524/4a0fcd05-3c91-48c4-b4b6-d3e11fb30e68)
 
+![image](https://github.com/MinakovS/HW_1/assets/163389524/79bdca6b-63c2-4d5d-ad71-57217b8b13ab)
+
+
