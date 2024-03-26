@@ -73,7 +73,12 @@ Microsoft IIS | 52.8k | 826 | 3.8k |
 ## Положение веб серверов на рынке:
 ![Без имени2](https://github.com/MinakovS/HW_1/assets/163389524/174c5a3f-8448-4147-94f6-94bfee5f6cfb)
 
-Сравнение популярности (по России):
+## Рейтинг веб серверов:
+
+![image](https://github.com/MinakovS/HW_1/assets/163389524/5651e487-2a8e-4259-b76a-bd4d3ae73130)
+
+##  Сравнение популярности Google Trends
+(по России):
 
 ![image](https://github.com/MinakovS/HW_1/assets/163389524/4a0fcd05-3c91-48c4-b4b6-d3e11fb30e68)
 
